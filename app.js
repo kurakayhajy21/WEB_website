@@ -17,11 +17,11 @@ const SITES = [
   },
   {
     id: 2,
-    name: "Site 02",
-    area: "Ankawa",
-    contactName: "Customer Name",
-    phone: "0750 000 0000",
-    locationUrl: "https://www.google.com/maps",
+    name: "White base",
+    area: "Timar",
+    contactName: "mohemmed",
+    phone: "0751 821 1353",
+    locationUrl: "https://maps.app.goo.gl/SZV3U9kFC5YC9pUa9",
     note: ""
   },
   {
@@ -132,4 +132,4 @@ setTimeout(() => {
   document.body.classList.remove("loading");
   splash.classList.add("done");
   setTimeout(() => splash.remove(), 600);
-}, 5000);
+}, 2000);
