@@ -128,4 +128,4 @@ renderList();
 renderDetails();
 
 /* Splash screen: show the logo for 5 seconds, then reveal the site */
-setTimeout(2000);
+setTimeout(200);
