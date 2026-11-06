@@ -11,8 +11,8 @@ const SITES = [
     name: "Hawler School 2",
     area: "Bnaslawa",
     contactName: "Shakar",
-    phone: "0750 000 0000",
-    locationUrl: "https://www.google.com/maps",
+    phone: "0750 190 4780",
+    locationUrl: "https://maps.app.goo.gl/zhAA6JKbskvL2KkR8",
     note: ""
   },
   {
