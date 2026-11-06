@@ -132,5 +132,5 @@ setTimeout(() => {
   const splash = document.getElementById("splash");
   document.body.classList.remove("loading");
   splash.classList.add("done");
-  setTimeout(() => splash.remove(), 600);
-}, 3000);
+  setTimeout(() => splash.remove(), 200);
+}, 2000);
