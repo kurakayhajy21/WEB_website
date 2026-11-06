@@ -128,9 +128,4 @@ renderList();
 renderDetails();
 
 /* Splash screen: show the logo for 5 seconds, then reveal the site */
-setTimeout(() => {
-  const splash = document.getElementById("splash");
-  
-  splash.classList.add("done");
-  setTimeout(() => splash.remove(), 200);
-}, 2000);
+setTimeout(2000);
