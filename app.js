@@ -43,16 +43,7 @@ const SITES = [
     locationUrl: "https://maps.app.goo.gl/vvhTie6EbdYX7ZAt6",
     note: ""
   }
-  ,
-  {
-    id: ,
-    name: "",
-    area: "",
-    contactName: "s",
-    phone: "",
-    locationUrl: "",
-    note: ""
-  }
+ 
   
 ];
 
