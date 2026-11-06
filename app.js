@@ -36,21 +36,21 @@ const SITES = [
   ,
   {
     id: 4,
-    name: "Site 04",
-    area: "Ankawa",
-    contactName: "Customer Name",
-    phone: "0750 000 0000",
-    locationUrl: "https://www.google.com/maps",
-    note: ""
-  }
-  ,
-  {
-    id: 5,
     name: "Pardasan",
     area: "sna3ay jnuby",
     contactName: "sardar",
     phone: "0750 480 5224",
     locationUrl: "https://maps.app.goo.gl/vvhTie6EbdYX7ZAt6",
+    note: ""
+  }
+  ,
+  {
+    id: ,
+    name: "",
+    area: "",
+    contactName: "s",
+    phone: "",
+    locationUrl: "",
     note: ""
   }
   
