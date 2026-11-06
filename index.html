@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#002e79">
+  <link rel="icon" href="logo.png">
+  <title>Web Net | Sites</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="loading">
+  <div id="splash" class="splash" role="img" aria-label="Web Net Company">
+    <img src="logo.png" alt="Web Net Company" class="splash-logo">
+    <div class="splash-bar"><span></span></div>
+  </div>
+
+  <header class="hero">
+    <div class="brand">
+      <img class="brand-logo" src="logo.png" alt="Web Net Company logo">
+      <div>
+        <h1 id="company-name">Web Net</h1>
+        <p class="tagline">Internet service provider</p>
+      </div>
+    </div>
+    <div class="hero-note">SITE DIRECTORY</div>
+  </header>
+
+  <main class="page">
+    <section class="intro">
+      <div>
+        <p class="eyebrow blue">LOCATION DIRECTORY</p>
+        <h2>Our Sites</h2>
+        <p class="muted">Choose a site to view its contact details and location.</p>
+      </div>
+      <div class="site-count"><strong id="site-count">0</strong><span>sites</span></div>
+    </section>
+
+    <label class="search">
+      <span aria-hidden="true">⌕</span>
+      <input id="search-input" type="search" placeholder="Search by site, area, or contact name..." autocomplete="off">
+    </label>
+
+    <div class="layout">
+      <section>
+        <div class="section-heading">
+          <h3>All locations</h3>
+          <span id="result-count" class="muted"></span>
+        </div>
+        <div id="site-list" class="site-list"></div>
+        <p id="empty-state" class="empty hidden">No sites match your search.</p>
+      </section>
+
+      <aside id="details-panel" class="details-panel">
+        <div class="details-empty">
+          <div class="pin-icon">⌖</div>
+          <h3>Select a site</h3>
+          <p class="muted">Its contact information and map link will appear here.</p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <span class="footer-symbol">⌁</span>
+    <span id="footer-company">Web Net</span>
+    <span class="footer-right">SITE LOCATION DIRECTORY</span>
+  </footer>
+  <script>
+    /* Splash logo: shown for 2 seconds */
+    setTimeout(function () {
+      document.body.classList.remove("loading");
+      var sp = document.getElementById("splash");
+      if (sp) sp.classList.add("done");
+    }, 2000);
+    /* Always fetch the newest files (so phones never show an old copy) */
+    ["app.js", "details-inline.js"].forEach(function (f) {
+      var s = document.createElement("script");
+      s.src = f + "?t=" + Date.now();
+      s.async = false; /* keep the order */
+      document.body.appendChild(s);
+    });
+  </script>
+</body>
+</html>
