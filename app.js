@@ -5,7 +5,8 @@
 */
 const COMPANY_NAME = "Web Net";
 
-const SITES = [
+const SITES =
+ [
   {
     id: 1,
     name: "Hawler School 2",
@@ -42,9 +43,7 @@ const SITES = [
     phone: "0750 480 5224",
     locationUrl: "https://maps.app.goo.gl/vvhTie6EbdYX7ZAt6",
     note: ""
-  }
- 
-  
+  } 
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
