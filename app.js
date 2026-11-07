@@ -204,6 +204,26 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/sPQ5k4BEzVwRuUF99",
   note:""
 }
+,
+{
+  id:22,
+  name:"Sky shaqlawa",
+  area:"Shaqlawa",
+  contactName:"goran",
+  phone:"0771 157 7151",
+  locationUrl:"https://maps.app.goo.gl/biJZwVWNf3cu8Sjn9",
+  note:""
+}
+,
+{
+  id:23,
+  name:"Aghati hotel",
+  area:"30m saydawa",
+  contactName:"goran",
+  phone:"0771 157 7151",
+  locationUrl:"https://maps.app.goo.gl/p1tRwwhbqc2XEtxy5",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
