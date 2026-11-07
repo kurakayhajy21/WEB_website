@@ -224,6 +224,16 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/p1tRwwhbqc2XEtxy5",
   note:""
 }
+,
+{
+  id:24,
+  name:"Chray zanst school",
+  area:"40m ",
+  contactName:"najmadin",
+  phone:"0750 425 8220",
+  locationUrl:"https://maps.app.goo.gl/fXwYwVmxRUhBi7zi6",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
