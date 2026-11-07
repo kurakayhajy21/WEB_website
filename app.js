@@ -74,6 +74,25 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/VXh46SbYYjZm8hMP6",
   note:""
 } 
+,
+{
+  id:8,
+  name:"Roze erbil hotel",
+  area:"brayaty ",
+  contactname:"roze erbil",
+  phone:"0750 663 7733",
+  locationUrl:"https://maps.app.goo.gl/zHdRmpqRabWZDTJJ6?g_st=iwb",
+  note:""
+}
+{
+  id:9,
+  name:"Royal palace hotel 2",
+  area:"60m",
+  contactname:"royal palace",
+  phone:"0751 047 2613",
+  locationUrl:"https://maps.app.goo.gl/QGUTYZoj98AiGgEz5?g_st=iwb",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
