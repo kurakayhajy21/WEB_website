@@ -174,7 +174,36 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/ohMC8Bm6GfDsvaYRA",
   note:""
 }
-
+,
+{
+  id:19,
+  name:"Agreen market",
+  area:"rey gwer",
+  contactName:"agreen market",
+  phone:"0751 708 2358",
+  locationUrl:"https://goo.gl/maps/PpRz1xsEumGy6DtG9",
+  note:""
+}
+,
+{
+  id:20,
+  name:"Delave factory",
+  area:"Rey karkuk",
+  contactName:"Ala",
+  phone:"0750 218 5030",
+  locationUrl:"https://maps.app.goo.gl/SxqYVgBTZUxkeNgj6",
+  note:""
+}
+,
+{
+  id:21,
+  name:"Kabab najar",
+  area:"32 park",
+  contactName:"Esam",
+  phone:"0750 432 2553",
+  locationUrl:"https://maps.app.goo.gl/sPQ5k4BEzVwRuUF99",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
