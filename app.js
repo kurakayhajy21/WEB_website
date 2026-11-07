@@ -44,6 +44,36 @@ const SITES =
     locationUrl: "https://maps.app.goo.gl/vvhTie6EbdYX7ZAt6",
     note: ""
   } 
+,
+{
+  id:5,
+  name:"elite1",
+  area:"Shorsh road",
+  contactname:"Abdulla",
+  phone:"0771 507 1535",
+  locationUrl:"https://maps.app.goo.gl/UvqzojPj1NuUscUx9",
+  note:""
+}
+,
+{
+  id:6,
+  name:"elite2",
+  area:"32park tanisht rbclass",
+  contactname:"Dany",
+  phone:"0771 507 1535",
+  locationUrl:"https://maps.app.goo.gl/wFiJfC22w4Y2o6bQ9",
+  note:""
+} 
+,
+{
+  id:7,
+  name:"elite3",
+  area:"32park ",
+  contactname:"Dany",
+  phone:"0771 507 1535",
+  locationUrl:"https://maps.app.goo.gl/VXh46SbYYjZm8hMP6",
+  note:""
+} 
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
