@@ -94,7 +94,86 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/QGUTYZoj98AiGgEz5?g_st=iwb",
   note:""
 }
-
+,
+{
+  id:10,
+  name:"Bashqal hotel",
+  area:"30m",
+  contactName:"Farhad",
+  phone:"0750 452 3000",
+  locationUrl:"ttps://maps.app.goo.gl/5EgKG4hWmZMGe9e46",
+  note:""
+}
+,
+{
+  id:11,
+  name:"Kany institute",
+  area:"xadamy 120m",
+  contactName:"krekar",
+  phone:"0750 467 7660",
+  locationUrl:"https://maps.app.goo.gl/YeQdnBhzCHKJW3TQ6",
+  note:""
+}
+,
+{
+  id:12,
+  name:"Velmora",
+  area:"30m",
+  contactName:"Bilal",
+  phone:"0773 304 3441",
+  locationUrl:"https://maps.app.goo.gl/2dgAjVr9YTWX5Q1c8",
+  note:""
+}
+,
+{
+  id:13,
+  name:"Sever hotel",
+  area:"60m",
+  contactName:"sever hotel",
+  phone:"0000 000 0000",
+  locationUrl:"https://maps.app.goo.gl/5qxvE4CdskKf2RbE9?g_st=iwb",
+  note:""
+}
+,
+{
+  id:14,
+  name:"best inn erbil hotel",
+  area:"ankawa road",
+  contactName:"shwan",
+  phone:"0750 452 0019",
+  locationUrl:"https://maps.app.goo.gl/sKP5E2EuESdqnG657",
+  note:""
+}
+,
+{
+  id:15,
+  name:"umkalthum",
+  area:"iskan ",
+  contactName:"muhamad",
+  phone:"0750 644 3009",
+  locationUrl:"https://maps.app.goo.gl/s1LnvFae5gzXHe8BA",
+  note:""
+}
+,
+{
+  id:16,
+  name:"kodo school",
+  area:"32 park",
+  contactName:"Abdulla",
+  phone:"0751 006 1565",
+  locationUrl:"https://maps.app.goo.gl/ccv3DaYDYUpAzug66",
+  note:""
+}
+,
+{
+  id:17,
+  name:"Dream erbil hotel",
+  area:"60m",
+  contactName:"dream erbil",
+  phone:"0773 692 9406",
+  locationUrl:"https://maps.app.goo.gl/ohMC8Bm6GfDsvaYRA",
+  note:""
+}
 
 ];
 
