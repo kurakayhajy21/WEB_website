@@ -60,7 +60,7 @@ const SITES =
   name:"elite2",
   area:"32park tanisht rbclass",
   contactname:"Dany",
-  phone:"0771 507 1535",
+  phone:"0000 000 0000",
   locationUrl:"https://maps.app.goo.gl/wFiJfC22w4Y2o6bQ9",
   note:""
 } 
@@ -70,7 +70,7 @@ const SITES =
   name:"elite3",
   area:"32park ",
   contactname:"Dany",
-  phone:"0771 507 1535",
+  phone:"0000 000 0000",
   locationUrl:"https://maps.app.goo.gl/VXh46SbYYjZm8hMP6",
   note:""
 } 
