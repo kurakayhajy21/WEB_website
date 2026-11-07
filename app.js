@@ -84,6 +84,7 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/zHdRmpqRabWZDTJJ6?g_st=iwb",
   note:""
 }
+,
 {
   id:9,
   name:"Royal palace hotel 2",
@@ -93,6 +94,8 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/QGUTYZoj98AiGgEz5?g_st=iwb",
   note:""
 }
+
+
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
