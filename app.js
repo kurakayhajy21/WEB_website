@@ -316,6 +316,3 @@ searchInput.addEventListener("input", () => {
 
 renderList();
 renderDetails();
-
-/* Splash screen: show the logo for 5 seconds, then reveal the site */
-
