@@ -440,9 +440,9 @@ const SITES =
   phone:"",
   locationUrl:"",
   note:""
-}
+}*/
 ];
-*/
+
 document.getElementById("company-name").textContent = COMPANY_NAME;
 document.getElementById("footer-company").textContent = COMPANY_NAME;
 document.title = `${COMPANY_NAME} | Sites`;
