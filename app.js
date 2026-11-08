@@ -254,6 +254,16 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/FMa6J5Ux1aguFu4p6",
   note:""
 }
+,
+{
+ id:27,
+  name:"alm alhadid",
+  area:"timar ",
+  contactName:"mhamad",
+  phone:"0750 327 1797",
+  locationUrl:"https://maps.app.goo.gl/9sUF9kTpyiXxn1Gw8?g_st=awb",
+  note:""
+} 
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
