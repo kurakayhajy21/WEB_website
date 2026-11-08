@@ -234,6 +234,26 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/fXwYwVmxRUhBi7zi6",
   note:""
 }
+,
+{
+  id:25,
+  name:"al nakheel",
+  area:"bnaslawa road ",
+  contactName:"muhammad",
+  phone:"0782 108 1625",
+  locationUrl:"https://maps.app.goo.gl/sgYY6uKemxBhj7Ct9",
+  note:""
+}
+,
+{
+  id:26,
+  name:"black pipe",
+  area:"gwer road ",
+  contactName:"sirwan",
+  phone:"0750 762 2329",
+  locationUrl:"https://maps.app.goo.gl/FMa6J5Ux1aguFu4p6",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
