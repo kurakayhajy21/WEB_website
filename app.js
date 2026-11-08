@@ -264,6 +264,26 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/9sUF9kTpyiXxn1Gw8?g_st=awb",
   note:""
 } 
+,
+{
+ id:28,
+  name:"tavgar school",
+  area:"koya road ",
+  contactName:"Rami",
+  phone:"0750 166 5400",
+  locationUrl:"https://maps.app.goo.gl/9tKMiV6jfBbFq8ia7",
+  note:""
+}
+,
+{
+ id:29,
+  name:"musa hotel",
+  area:"shexalla ",
+  contactName:"sihad",
+  phone:"0750 910 0704",
+  locationUrl:"https://maps.app.goo.gl/Ueh3thFyHqgZKskm9",
+  note:""
+}
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
