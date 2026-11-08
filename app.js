@@ -284,8 +284,165 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/Ueh3thFyHqgZKskm9",
   note:""
 }
-];
 
+,
+{
+ id:29,
+  name:"fahmy khoshnaw",
+  area:"khurmala road ",
+  contactName:"akar",
+  phone:"0750 740 8877",
+  locationUrl:"https://maps.app.goo.gl/yJg6n2kmDdXN6R5e6",
+  note:""
+}
+/*
+,
+{
+ id:30,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+},
+{
+ id:,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:"",
+  note:""
+}
+];
+*/
 document.getElementById("company-name").textContent = COMPANY_NAME;
 document.getElementById("footer-company").textContent = COMPANY_NAME;
 document.title = `${COMPANY_NAME} | Sites`;
