@@ -176,7 +176,7 @@ const SITES =
 }
 ,
 {
-  id:19,
+  id:18,
   name:"Agreen market",
   area:"rey gwer",
   contactName:"agreen market",
@@ -186,7 +186,7 @@ const SITES =
 }
 ,
 {
-  id:20,
+  id:19,
   name:"Delave factory",
   area:"Rey karkuk",
   contactName:"Ala",
@@ -196,7 +196,7 @@ const SITES =
 }
 ,
 {
-  id:21,
+  id:20,
   name:"Kabab najar",
   area:"32 park",
   contactName:"Esam",
@@ -206,7 +206,7 @@ const SITES =
 }
 ,
 {
-  id:22,
+  id:21,
   name:"Sky shaqlawa",
   area:"Shaqlawa",
   contactName:"goran",
@@ -216,7 +216,7 @@ const SITES =
 }
 ,
 {
-  id:23,
+  id:22,
   name:"Aghati hotel",
   area:"30m saydawa",
   contactName:"goran",
@@ -226,7 +226,7 @@ const SITES =
 }
 ,
 {
-  id:24,
+  id:23,
   name:"Chray zanst school",
   area:"40m ",
   contactName:"najmadin",
@@ -236,7 +236,7 @@ const SITES =
 }
 ,
 {
-  id:25,
+  id:24,
   name:"al nakheel",
   area:"bnaslawa road ",
   contactName:"muhammad",
@@ -246,7 +246,7 @@ const SITES =
 }
 ,
 {
-  id:26,
+  id:25,
   name:"black pipe",
   area:"gwer road ",
   contactName:"sirwan",
@@ -256,7 +256,7 @@ const SITES =
 }
 ,
 {
- id:27,
+ id:26,
   name:"alm alhadid",
   area:"timar ",
   contactName:"mhamad",
@@ -266,7 +266,7 @@ const SITES =
 } 
 ,
 {
- id:28,
+ id:27,
   name:"tavgar school",
   area:"koya road ",
   contactName:"Rami",
@@ -276,7 +276,7 @@ const SITES =
 }
 ,
 {
- id:29,
+ id:28,
   name:"musa hotel",
   area:"shexalla ",
   contactName:"sihad",
