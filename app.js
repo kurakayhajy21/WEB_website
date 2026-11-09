@@ -422,16 +422,16 @@ const SITES =
   phone:"0776 153 1627",
   locationUrl:"https://maps.app.goo.gl/imqkYhr2odhRhw8V7",
   note:""
-}/*,
+},
 {
  id:,
-  name:"",
-  area:" ",
+  name:"ebla school",
+  area:"40",
   contactName:"",
   phone:"",
-  locationUrl:"",
+  locationUrl:"https://maps.app.goo.gl/Z9MBY6UKfjy4Xn4KA",
   note:""
-},
+}/*,
 {
  id:,
   name:"",
