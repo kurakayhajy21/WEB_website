@@ -395,25 +395,25 @@ const SITES =
   phone:"0751 755 6435",
   locationUrl:"https://maps.app.goo.gl/miHm43PaimhtBEUC9",
   note:""
+},
+{
+ id:41,
+  name:"burger king",
+  area:" naz naz",
+  contactName:"mstafa",
+  phone:"0751 792 5170",
+  locationUrl:"https://maps.app.goo.gl/azWnrkkikfgdzZ8X6",
+  note:""
+},
+{
+ id:42,
+  name:"Winhome cmpany",
+  area:"adala ",
+  contactName:"ranjdar",
+  phone:"0787 447 1987",
+  locationUrl:"https://maps.app.goo.gl/6SxfCqpDyR41ac3r7",
+  note:""
 }/*,
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
 {
  id:,
   name:"",
