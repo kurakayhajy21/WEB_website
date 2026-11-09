@@ -426,7 +426,7 @@ const SITES =
 {
  id:44,
   name:"ebla school",
-  area:"40",
+  area:"40m",
   contactName:"",
   phone:"",
   locationUrl:"https://maps.app.goo.gl/Z9MBY6UKfjy4Xn4KA",
