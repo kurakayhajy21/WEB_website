@@ -325,59 +325,59 @@ const SITES =
   note:""
 },
 {
- id33:,
+ id:33,
   name:"beverly office",
   area:" xadamy 120m",
   contactName:"sagvan",
   phone:"0750 424 2233",
   locationUrl:"https://maps.app.goo.gl/qXsnyu3CLnLbYans8?g_st=awb",
   note:""
+},
+{
+ id:34,
+  name:"grand babil",
+  area:"iskan  ",
+  contactName:"swar",
+  phone:"0750 350 7758",
+  locationUrl:"https://maps.app.goo.gl/kH3BvZTXDrCCf3qn9",
+  note:""
+},
+{
+ id:35,
+  name:"jetoure show room ",
+  area:"100m ",
+  contactName:"josef",
+  phone:"0751 243 0652",
+  locationUrl:"https://maps.app.goo.gl/JCs7m23m5N6uBukL8",
+  note:""
+},
+{
+ id:36,
+  name:"jetoure services",
+  area:"100m",
+  contactName:"josef",
+  phone:"0751 243 0652",
+  locationUrl:"https://maps.app.goo.gl/5ipp9nJDTHY1bL5x6",
+  note:""
+},
+{
+ id:37,
+  name:"jetoure soueast",
+  area:" 100m",
+  contactName:"josef",
+  phone:"0751 243 0652",
+  locationUrl:"https://maps.app.goo.gl/nV23NrKDFZxHG65R6",
+  note:""
+},
+{
+ id:,
+  name:"jetoure harlem",
+  area:"100m",
+  contactName:"josef",
+  phone:"0751 243 0652",
+  locationUrl:"https://maps.app.goo.gl/7qQrqQzSMWvx2Ggc9",
+  note:""
 }/*,
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
 {
  id:,
   name:"",
