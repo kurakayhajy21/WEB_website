@@ -413,16 +413,16 @@ const SITES =
   phone:"0787 447 1987",
   locationUrl:"https://maps.app.goo.gl/6SxfCqpDyR41ac3r7",
   note:""
-}/*,
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
 },
+{
+ id:43,
+  name:"arso factory",
+  area:"adala",
+  contactName:"yusf",
+  phone:"0776 153 1627",
+  locationUrl:"https://maps.app.goo.gl/imqkYhr2odhRhw8V7",
+  note:""
+}/*,
 {
  id:,
   name:"",
