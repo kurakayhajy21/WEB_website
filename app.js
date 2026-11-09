@@ -295,44 +295,44 @@ const SITES =
   locationUrl:"https://maps.app.goo.gl/yJg6n2kmDdXN6R5e6",
   note:""
 }
-/*
+
 ,
 {
  id:30,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
+  name:"banry hawler",
+  area:"adala ",
+  contactName:"nihad",
+  phone:"0750 445 2435",
+  locationUrl:"https://maps.app.goo.gl/qckc5xyBg7v6D4hn8",
   note:""
 },
 {
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
+ id:31,
+  name:"ayad alsharq",
+  area:"runaky",
+  contactName:"wshyar",
+  phone:"0750 449 2474",
+  locationUrl:" https://maps.app.goo.gl/fqjDx8j7FrWju6Hr5?g_st=iwb",
   note:""
 },
 {
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
+ id:32,
+  name:"Chray zanst 2",
+  area:" 40m",
+  contactName:"sherzad",
+  phone:"750 447 8745",
+  locationUrl:"https://maps.app.goo.gl/fKD8sqqFPfNkdfreA?g_st=awb",
   note:""
 },
 {
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
+ id33:,
+  name:"beverly office",
+  area:" xadamy 120m",
+  contactName:"sagvan",
+  phone:"0750 424 2233",
+  locationUrl:"https://maps.app.goo.gl/qXsnyu3CLnLbYans8?g_st=awb",
   note:""
-},
+}/*,
 {
  id:,
   name:"",
