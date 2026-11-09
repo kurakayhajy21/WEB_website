@@ -370,32 +370,32 @@ const SITES =
   note:""
 },
 {
- id:,
+ id:38,
   name:"jetoure harlem",
   area:"100m",
   contactName:"josef",
   phone:"0751 243 0652",
   locationUrl:"https://maps.app.goo.gl/7qQrqQzSMWvx2Ggc9",
   note:""
+},
+{
+ id:39,
+  name:"ganjany shorsh",
+  area:"shorsh road",
+  contactName:"nihad",
+  phone:"0750 446 6060",
+  locationUrl:"https://maps.app.goo.gl/9ZhP9WjDUg8PotHx8",
+  note:""
+},
+{
+ id:40,
+  name:"alway akre",
+  area:"akre road",
+  contactName:"ahmed",
+  phone:"0751 755 6435",
+  locationUrl:"https://maps.app.goo.gl/miHm43PaimhtBEUC9",
+  note:""
 }/*,
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
-{
- id:,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:"",
-  note:""
-},
 {
  id:,
   name:"",
