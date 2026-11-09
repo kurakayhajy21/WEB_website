@@ -424,7 +424,7 @@ const SITES =
   note:""
 },
 {
- id:,
+ id:44,
   name:"ebla school",
   area:"40",
   contactName:"",
