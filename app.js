@@ -449,16 +449,16 @@ const SITES =
   phone:"0750 719 8991",
   locationUrl:"https://maps.app.goo.gl/ckvfj21j6CCEW4Vm7",
   note:""
-}/*,
+},
 {
  id:47,
-  name:"",
-  area:" ",
-  contactName:"",
-  phone:"",
-  locationUrl:" ",
+  name:"hajy salam ",
+  area:"alban road",
+  contactName:"matin ",
+  phone:"751 721 7471",
+  locationUrl:"https://maps.app.goo.gl/W3upMD1kVHG1kSfr6",
   note:""
-},
+}/*,
 {
  id:48,
   name:" ",
