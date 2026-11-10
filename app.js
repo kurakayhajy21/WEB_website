@@ -399,7 +399,7 @@ const SITES =
 {
  id:41,
   name:"burger king",
-  area:" naz naz",
+  area:"naznaz",
   contactName:"mstafa",
   phone:"0751 792 5170",
   locationUrl:"https://maps.app.goo.gl/azWnrkkikfgdzZ8X6",
@@ -407,7 +407,7 @@ const SITES =
 },
 {
  id:42,
-  name:"Winhome cmpany",
+  name:"Winhome company",
   area:"adala ",
   contactName:"ranjdar",
   phone:"0787 447 1987",
@@ -440,7 +440,61 @@ const SITES =
   phone:"0750 482 7299",
   locationUrl:"https://maps.app.goo.gl/RMaZz3MLxmPgNV1m6",
   note:""
-}/**/
+},
+{
+ id:46,
+  name:"shams suraya 2",
+  area:"kurany 3ankawa",
+  contactName:"musa",
+  phone:"0750 719 8991",
+  locationUrl:"https://maps.app.goo.gl/ckvfj21j6CCEW4Vm7",
+  note:""
+}/*,
+{
+ id:47,
+  name:"",
+  area:" ",
+  contactName:"",
+  phone:"",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:48,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:49,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:50,
+  name:" ",
+  area:" ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:51,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+} */
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
