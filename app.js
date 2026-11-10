@@ -308,7 +308,7 @@ const SITES =
 },
 {
  id:31,
-  name:"ayad alsharq",
+  name:"asyad alsharq",
   area:"runaky",
   contactName:"wshyar",
   phone:"0750 449 2474",
