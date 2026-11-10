@@ -433,12 +433,12 @@ const SITES =
   note:""
 }/*,
 {
- id:,
+ id:45,
   name:"",
-  area:" ",
+  area:"rawaz ",
   contactName:"",
-  phone:"",
-  locationUrl:"",
+  phone:"0750 193 8338",
+  locationUrl:"https://maps.app.goo.gl/vTv6LvSB4Q1PdBGm7?g_st=iwb",
   note:""
 }*/
 ];
