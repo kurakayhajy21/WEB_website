@@ -431,16 +431,16 @@ const SITES =
   phone:"",
   locationUrl:"https://maps.app.goo.gl/Z9MBY6UKfjy4Xn4KA",
   note:""
-}/*,
+},
 {
  id:45,
-  name:"",
-  area:"rawaz ",
-  contactName:"",
-  phone:"0750 193 8338",
-  locationUrl:"https://maps.app.goo.gl/vTv6LvSB4Q1PdBGm7?g_st=iwb",
+  name:"zhury bazrgany",
+  area:"40m barambar qunsulxanay turkya ",
+  contactName:"zhila",
+  phone:"0750 482 7299",
+  locationUrl:"https://maps.app.goo.gl/RMaZz3MLxmPgNV1m6",
   note:""
-}*/
+}/**/
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
