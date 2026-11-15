@@ -467,16 +467,16 @@ const SITES =
   phone:"0750 395 6903",
   locationUrl:"https://maps.app.goo.gl/1bemQwgSGMjWdnzD9 ",
   note:""
-}/*,
+},
 {
  id:49,
-  name:" ",
-  area:"  ",
+  name:" sherzad hotel",
+  area:" nzik arzhin  ",
   contactName:" ",
   phone:" ",
-  locationUrl:" ",
+  locationUrl:"https://maps.app.goo.gl/gxy9WHqHqp1imtD99 ",
   note:""
-},
+}/*,
 {
  id:50,
   name:" ",
