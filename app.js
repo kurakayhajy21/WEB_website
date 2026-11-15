@@ -381,7 +381,7 @@ const SITES =
 {
  id:39,
   name:"ganjany shorsh",
-  area:"shorsh road",
+  area:"Shorsh road",
   contactName:"nihad",
   phone:"0750 446 6060",
   locationUrl:"https://maps.app.goo.gl/9ZhP9WjDUg8PotHx8",
@@ -476,16 +476,16 @@ const SITES =
   phone:" ",
   locationUrl:"https://maps.app.goo.gl/gxy9WHqHqp1imtD99 ",
   note:""
-}/*,
+},
 {
  id:50,
-  name:" ",
-  area:" ",
-  contactName:" ",
+  name:" wolrd tech",
+  area:"sna3ay jnuby ",
+  contactName:"mhamad",
   phone:" ",
-  locationUrl:" ",
+  locationUrl:"https://maps.app.goo.gl/6GvhaUF1h3mUsj8y6 ",
   note:""
-},
+}/*,
 {
  id:51,
   name:" ",
