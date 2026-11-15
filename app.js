@@ -458,16 +458,16 @@ const SITES =
   phone:"751 721 7471",
   locationUrl:"https://maps.app.goo.gl/W3upMD1kVHG1kSfr6",
   note:""
-}/*,
+},
 {
  id:48,
-  name:" ",
-  area:"  ",
-  contactName:" ",
-  phone:" ",
-  locationUrl:" ",
+  name:" luxuxs hotel",
+  area:"ankawa road",
+  contactName:"abdulla",
+  phone:"0750 395 6903",
+  locationUrl:"https://maps.app.goo.gl/1bemQwgSGMjWdnzD9 ",
   note:""
-},
+}/*,
 {
  id:49,
   name:" ",
