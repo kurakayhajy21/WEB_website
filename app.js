@@ -503,25 +503,25 @@ const SITES =
   phone:"0750 877 3067 ",
   locationUrl:"https://maps.app.goo.gl/2STpXoRsarBwZnyt8 ",
   note:""
+},
+{
+ id:53,
+  name:"darnas factory ",
+  area:" sna3ay jnuby ",
+  contactName:"rawaz ",
+  phone:"0750 193 8338 ",
+  locationUrl:"https://maps.app.goo.gl/YzZCLAw6G5E8cn2A8 ",
+  note:""
+},
+{
+ id:54,
+  name:" nahro hadad",
+  area:" timar ",
+  contactName:" nahro",
+  phone:" 750 555 3132",
+  locationUrl:" https://maps.app.goo.gl/x3QsvGvFkhpQ3gE67",
+  note:""
 }/*,
-{
- id:,
-  name:" ",
-  area:"  ",
-  contactName:" ",
-  phone:" ",
-  locationUrl:" ",
-  note:""
-},
-{
- id:,
-  name:" ",
-  area:"  ",
-  contactName:" ",
-  phone:" ",
-  locationUrl:" ",
-  note:""
-},
 {
  id:,
   name:" ",
