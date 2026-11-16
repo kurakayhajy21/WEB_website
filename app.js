@@ -485,16 +485,340 @@ const SITES =
   phone:" ",
   locationUrl:"https://maps.app.goo.gl/6GvhaUF1h3mUsj8y6 ",
   note:""
-}/*,
+},
 {
  id:51,
+  name:"ahin hotel ",
+  area:" adala ",
+  contactName:"muhamad ",
+  phone:"0770 455 5017 ",
+  locationUrl:"https://maps.app.goo.gl/JCCzw1nnBH6CHUeS8 ",
+  note:""
+} ,
+{
+ id:52,
+  name:"var park",
+  area:" pirmam road ",
+  contactName:" payam",
+  phone:"0750 877 3067 ",
+  locationUrl:"https://maps.app.goo.gl/2STpXoRsarBwZnyt8 ",
+  note:""
+}/*,
+{
+ id:,
   name:" ",
   area:"  ",
   contactName:" ",
   phone:" ",
   locationUrl:" ",
   note:""
-} */
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id:,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+},
+{
+ id: ,
+  name:" ",
+  area:"  ",
+  contactName:" ",
+  phone:" ",
+  locationUrl:" ",
+  note:""
+}*/
 ];
 
 document.getElementById("company-name").textContent = COMPANY_NAME;
