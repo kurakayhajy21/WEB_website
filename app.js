@@ -521,16 +521,16 @@ const SITES =
   phone:" 750 555 3132",
   locationUrl:" https://maps.app.goo.gl/x3QsvGvFkhpQ3gE67",
   note:""
-}/*,
-{
- id:,
-  name:" ",
-  area:"  ",
-  contactName:" ",
-  phone:" ",
-  locationUrl:" ",
-  note:""
 },
+{
+ id:55,
+  name:"alvelar group ",
+  area:" gazna road ",
+  contactName:" dani ",
+  phone:" 0750 966 9553 ",
+  locationUrl:" https://maps.app.goo.gl/BXxGxwN66HpRZsDP9",
+  note:""
+}/*,
 {
  id:,
   name:" ",
